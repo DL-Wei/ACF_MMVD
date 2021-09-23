@@ -2,7 +2,7 @@
 	
 There are official codes for ICASSP2021 paper "LOOK, LISTEN AND PAY MORE ATTENTION: FUSING MULTI-MODAL INFORMATION FOR VIDEO VIOLENCE DETECTION"
 
-Structure of our method
+Overall Structure 
 ![Structure of our method](Overall-architecture.jpg)
 
 Structure of SA unit and FA unit
