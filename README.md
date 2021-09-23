@@ -4,7 +4,7 @@ These are official codes for ICASSP2021 paper "LOOK, LISTEN AND PAY MORE ATTENTI
 
 Overall Structure 
 
-![Structure of our method](Overall-Architecture.jpg)
+![Structure of our method](overall-architecture.jpg)
 
 Structure of SA unit and FA unit
 
