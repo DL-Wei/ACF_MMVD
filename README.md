@@ -6,10 +6,10 @@ Overall Structure
 
 ![Structure of our method](Overall-Architecture.jpg)
 
-Structure of SA unit and FA unit
+Visualization results of violence maps
 
-<p align="center"><img src="https://gitee.com/silencewind/PicGoImage/raw/master/img/20210923210419.jpg" width="60%" height="23%"></p>
-<p align="center"><img src="https://gitee.com/silencewind/PicGoImage/raw/master/img/20210923210418.jpg" width="60%" height="23%"></p>
+<p align="center"><img src="https://gitee.com/silencewind/PicGoImage/raw/master/img/20210928152206.jpg" width="60%" height="23%"></p>
+<p align="center"><img src="https://gitee.com/silencewind/PicGoImage/raw/master/img/20210928152205.jpg" width="60%" height="23%"></p>
 
 ## Updates
 **`[September 22th]`** 
