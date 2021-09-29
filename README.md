@@ -8,8 +8,8 @@ Overall Structure
 
 Visualization results of violence maps
 
-<p align="center"><img src="https://gitee.com/silencewind/PicGoImage/raw/master/img/20210928152206.jpg" width="60%" height="23%"></p>
-<p align="center"><img src="https://gitee.com/silencewind/PicGoImage/raw/master/img/20210928152205.jpg" width="60%" height="23%"></p>
+<p align="center"><img src="https://gitee.com/silencewind/PicGoImage/raw/master/img/20210929083356.jpg" width="50%" height="18%"></p>
+<p align="center"><img src="https://gitee.com/silencewind/PicGoImage/raw/master/img/20210929083357.jpg" width="50%" height="18%"></p>
 
 ## Updates
 **`[September 22th]`** 
