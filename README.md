@@ -4,7 +4,7 @@ These are official codes for ICASSP2022 paper "LOOK, LISTEN AND PAY MORE ATTENTI
 
 Overall Structure 
 
-![](overall architecture.jpg)
+![](architecture.jpg)
 
 ## Updates
 **`[September 30th]`** 
