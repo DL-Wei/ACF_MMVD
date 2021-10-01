@@ -4,7 +4,7 @@ These are official codes for ICASSP2022 paper "LOOK, LISTEN AND PAY MORE ATTENTI
 
 Overall Structure 
 
-![Structure of our method](overall architecture.jpg)
+![](overall architecture.jpg)
 
 ## Updates
 **`[September 30th]`** 
@@ -19,11 +19,11 @@ Based on their ground truth, we have created a new format frame_mask of the test
 ## Visualization
  Visualization results of violence scenes
  
-![Structure of our method](violence%20maps-1.jpg)
+![](violence%20maps-1.jpg)
 
  Visualization results of fused attention
  
-![Structure of our method](violence%20maps-2.jpg)
+![](violence%20maps-2.jpg)
 
 ## Requirements
 - python>=3.6
