@@ -1,13 +1,13 @@
 # ACF Network: For Multi-Modal Violence Detection 
 	
-These are official codes for ICASSP2022 paper "LOOK, LISTEN AND PAY MORE ATTENTION: FUSING MULTI-MODAL INFORMATION FOR VIDEO VIOLENCE DETECTION"
+These are official codes for ICASSP 2022 paper "LOOK, LISTEN AND PAY MORE ATTENTION: FUSING MULTI-MODAL INFORMATION FOR VIDEO VIOLENCE DETECTION"
 
 Overall Structure 
 
 ![](architecture.jpg)
 
 ## Updates
-**`[September 30th]`** 
+**`[October 5th]`** 
 Our codes and more details about the work will be released soon. Please stay tuned.
 
 ## Datasets
@@ -17,11 +17,11 @@ This dataset is from the official GitHub of "Not only Look, but also Listen: Lea
 Based on their ground truth, we have created a new format frame_mask of the test dataset for our method and published it in the repository.
 
 ## Visualization
- Visualization results of violence scenes
+ Visualization results of violence scenes.
  
 ![](violence%20maps-1.jpg)
 
- Visualization results of fused attention
+ Visualization results of fused attention.
  
 ![](violence%20maps-2.jpg)
 
@@ -31,5 +31,4 @@ Based on their ground truth, we have created a new format frame_mask of the test
 - torchvision=0.6.0+cu101
 - scikit-learn
 - numpy
-- apex
 - opencv
