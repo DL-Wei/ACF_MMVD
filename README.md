@@ -8,7 +8,7 @@ Overall Structure
 
 ## Updates
 **`[September 30th]`** 
-Our codes and more details about the work will be released soon. Please stay tuned.
+Our codes and more details about the work will be released soon.
 
 ## Datasets
 [XD-Violence](https://roc-ng.github.io/XD-Violence/)
